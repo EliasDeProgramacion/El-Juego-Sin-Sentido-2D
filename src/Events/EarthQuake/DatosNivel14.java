@@ -1,6 +1,6 @@
 package sismos.nivel_14;
  import sismos.SismoBase;
- public class DatosNivel13 {
+ public class DatosNivel14 {
      public static SismoBase obtener() {
          return new SismoBase(
              14,
