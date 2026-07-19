@@ -7,8 +7,7 @@ package sismos.nivel_01;
              100,
              3.0,
              "",
-             "Horas",
-             "Casi nadie lo siente; activa aparatos electrónicos solos sin causar daños."
+             "Horas"
          );
      }
  }
