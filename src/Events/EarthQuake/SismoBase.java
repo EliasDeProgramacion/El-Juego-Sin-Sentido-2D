@@ -5,14 +5,12 @@ package sismos;
      public double energia;
      public String nombre;
      public String duracion;
-     public String descripcion;
-     public SismoBase(int nivel, int probabilidad, double energia, String nombre, String duracion, String descripcion) {
+     public SismoBase(int nivel, int probabilidad, double energia, String nombre, String duracion,) {
          this.nivel = nivel;
          this.probabilidad = probabilidad;
          this.energia = energia;
          this.nombre = nombre;
          this.duracion = duracion;
-         this.descripcion = descripcion;
      }
      public boolean verificarSiOcurre() {
          int numeroAleatorio = (int)(Math.random() * 101);
@@ -32,7 +30,6 @@ package sismos;
          System.out.println("Probabilidad: " + probabilidad + "%");
          System.out.println("Energía: " + energia + " V");
          System.out.println("Duración: " + duracion);
-         System.out.println("Descripción: " + descripcion);
          System.out.println("====================================");
      }
  }
