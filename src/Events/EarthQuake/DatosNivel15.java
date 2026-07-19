@@ -6,7 +6,7 @@ package sismos.nivel_15;
              15,
              30,
              170.0,
-             "",
+             "Cataclismo Mayor",
              "Cientos de Miles de Años"
          );
      }
