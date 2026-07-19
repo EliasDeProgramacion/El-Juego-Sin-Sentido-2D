@@ -7,7 +7,7 @@ package sismos.nivel_03;
              90,
              12.0,
              "",
-             "3 a 4 horas"
+             "1 día"
          );
      }
  }
