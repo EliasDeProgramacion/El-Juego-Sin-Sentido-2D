@@ -13,7 +13,9 @@ package bloques;
          this.esSolido = esSolido;
          this.sePuedeRomper = sePuedeRomper;
          this.herramientaNecesaria = herramientaNecesaria;
-         this.tieneRecurso = tieneRecurso;
+         this.recursoBase = recursoBase;
+         this.recursoExtra = recursoExtra
+         this.probabilidadExtra = probabilidadExtra
          this.idGrafico = idGrafico;
      }
  }
