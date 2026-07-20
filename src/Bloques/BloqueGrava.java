@@ -1,9 +1,9 @@
 package bloques;
 
-public class BloqueTierra extends BloqueBase {
-    public BloqueTierra() {
+public class BloqueGrava extends BloqueBase {
+    public BloqueGrava() {
         super(
-            "Tierra",
+            "Grava",
             true,
             true,
             "Grava",
