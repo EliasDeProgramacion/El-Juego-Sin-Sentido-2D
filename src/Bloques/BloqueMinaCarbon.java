@@ -1,7 +1,7 @@
 package bloques;
 
 public class BloqueMinaCarbon extends BloqueBase {
-    public BloqueTierra() {
+    public BloqueMinaDeCarbon() {
         super(
             "Mina De Carbon",
             true,
