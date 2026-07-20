@@ -10,6 +10,8 @@ package bloques;
          this.ancho = ancho;
          this.alto = alto;
          this.esSolido = esSolido;
+         this.sePuedeRomper = sePuedeRomper;
+         this.herramientaNecesaria = herramientaNecesaria;
          this.tieneRecurso = tieneRecurso;
          this.idGrafico = idGrafico;
      }
