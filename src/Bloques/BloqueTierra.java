@@ -8,7 +8,8 @@ public class BloqueTierra extends BloqueBase {
              8,
             true,
             false,
-            "Tierra",
+            "",
+            "",
             "tierra_01"
         );
     }
