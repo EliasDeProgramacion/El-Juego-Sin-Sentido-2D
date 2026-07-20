@@ -8,6 +8,8 @@ public class BloquePino extends BloqueBase {
             true,
             "Hacha",
             "Madera",
+            ""
+            0,
             "Pino_01"
         );
     }
