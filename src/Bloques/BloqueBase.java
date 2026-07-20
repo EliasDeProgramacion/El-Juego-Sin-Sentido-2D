@@ -7,6 +7,8 @@ package bloques;
      public String idGrafico;
      public BloqueBase(String nombre, boolean esSolido, boolean tieneRecurso, String idGrafico) {
          this.nombre = nombre;
+         this.ancho = ancho;
+         this.alto = alto;
          this.esSolido = esSolido;
          this.tieneRecurso = tieneRecurso;
          this.idGrafico = idGrafico;
