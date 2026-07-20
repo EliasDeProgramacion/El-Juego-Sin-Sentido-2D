@@ -9,7 +9,7 @@ package bloques;
          this.nombre = nombre;
          this.ancho = ancho;
          this.alto = alto;
-         this.esSolido = esSolido;
+         this.esBloqueGrande = (ancho > TAMANIO_BASE || alto > TAMANIO_BASE);         this.esSolido = esSolido;
          this.sePuedeRomper = sePuedeRomper;
          this.herramientaNecesaria = herramientaNecesaria;
          this.tieneRecurso = tieneRecurso;
