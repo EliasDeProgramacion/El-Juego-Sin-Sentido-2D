@@ -9,6 +9,8 @@ public class BloqueAire extends BloqueBase {
             false,
             false,
             "",
+            "",
+            0,
             "Aire",
             "aire_01"
         );
