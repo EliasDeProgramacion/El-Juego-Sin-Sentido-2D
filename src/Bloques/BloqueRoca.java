@@ -8,6 +8,7 @@ public class BloqueRoca extends BloqueBase {
              8,
             true,
             true,
+            "pico",
             "Roca",
             "roca_01"
         );
