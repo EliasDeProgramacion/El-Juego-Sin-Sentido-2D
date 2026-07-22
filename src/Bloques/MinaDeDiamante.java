@@ -12,6 +12,7 @@ public class BloqueMinaDeDiamante extends BloqueBase {
             "Roca",
             30,
             ""
+            3,
             "MinaDeDiamante_01"
         );
     }
