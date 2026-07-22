@@ -10,6 +10,7 @@ public class BloqueGrava extends BloqueBase {
             "Pedernal",
             50,
             ""
+            0,
             "Grava_01"
         );
     }
