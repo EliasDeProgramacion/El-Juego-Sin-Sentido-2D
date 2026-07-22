@@ -10,6 +10,7 @@ public class BloqueMinaCarbon extends BloqueBase {
             "Carbon",
             "Roca",
             50,
+            ""
             "MinaDeCarbon_01"
         );
     }
