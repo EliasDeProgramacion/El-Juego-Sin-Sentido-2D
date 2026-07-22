@@ -12,6 +12,7 @@ public class BloqueTierra extends BloqueBase {
             "",
             0,
             "Luvia"
+            50000,
             "tierra_01"
         );
     }
