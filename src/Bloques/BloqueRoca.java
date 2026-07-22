@@ -13,6 +13,7 @@ public class BloqueRoca extends BloqueBase {
             "",
             0,
             ""
+            1,
             "roca_01"
         );
     }
