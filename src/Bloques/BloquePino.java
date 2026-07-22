@@ -11,6 +11,7 @@ public class BloquePino extends BloqueBase {
             ""
             0,
             ""
+            1,
             "Pino_01"
         );
     }
