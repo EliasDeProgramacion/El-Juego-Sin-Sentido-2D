@@ -10,6 +10,7 @@ public class BloquePino extends BloqueBase {
             "Madera",
             ""
             0,
+            ""
             "Pino_01"
         );
     }
