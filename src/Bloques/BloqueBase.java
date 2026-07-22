@@ -14,8 +14,9 @@ public class BloqueBase {
     public String recursoExtra;
     public int probabilidadExtra;
     public String afectadoPorClima;
+    public int nivelRequerido
     public String idImagen;
-    public BloqueBase(String nombre, int ancho, int alto, boolean esSolido, boolean sePuedeRomper, String herramientaNecesaria, String recursoBase, String recursoExtra, int probabilidadExtra, String afectadoPorClima, String idImagen) {
+    public BloqueBase(String nombre, int ancho, int alto, boolean esSolido, boolean sePuedeRomper, String herramientaNecesaria, String recursoBase, String recursoExtra, int probabilidadExtra, String afectadoPorClima, int nivelRequerido, String idImagen) {
         this.nombre = nombre;
         this.ancho = ancho;
         this.alto = alto;
@@ -27,6 +28,7 @@ public class BloqueBase {
         this.recursoExtra = recursoExtra;
         this.probabilidadExtra = probabilidadExtra;
         this.afectadoPorClima = afectadoPorClima;
+        this.nivelRequerido = nivelRequerido
         this.idImagen = idImagen;
     }
 }
